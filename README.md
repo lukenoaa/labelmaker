@@ -4,6 +4,10 @@
 
 Make printable QR code labels for samples using basic information about a project. 
 
+<p align="center">
+  <img src="upgrade.jpg" width="50%"/>
+</p>
+
 ## Installation
 
 ### Option 1: Native install
